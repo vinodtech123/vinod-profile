@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **vinodabnani321@gmail.com**
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/724bd1d4ae5f62dcd8de231340e065809e8a38fb22adf9a943828b02ef617cd5/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313137336264396130363864366634636362336437333237366561323463376234633963623534373630267269643d67697068792e6769662663743d67" data-target="animated-image.originalLink"><img align="right" alt="GIF" src="https://camo.githubusercontent.com/724bd1d4ae5f62dcd8de231340e065809e8a38fb22adf9a943828b02ef617cd5/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313137336264396130363864366634636362336437333237366561323463376234633963623534373630267269643d67697068792e6769662663743d67" data-canonical-src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173bd9a068d6f4ccb3d73276ea24c7b4c9cb54760&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinod abnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod abnani" height="30" width="40" /></a>
